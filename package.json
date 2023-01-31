@@ -1,0 +1,27 @@
+{
+  "name": "cohort_27_backend",
+  "version": "1.0.0",
+  "description": "this is example of backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fab-ryan/cohort27_backend.git"
+  },
+  "author": "fabrice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fab-ryan/cohort27_backend/issues"
+  },
+  "homepage": "https://github.com/fab-ryan/cohort27_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
